@@ -1,9 +1,6 @@
 # Comparison of different optimizers for CNN
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://www.linkedin.com/in/voiculaura/
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/voiculaura/)](https://www.linkedin.com/in/voiculaura/)
 
 In this notebook I'd like to compare the performance of different optimizers on a given problem. I will use the fake news dataset and the features extracted in that project using TF-IDF. The architecture of convolutional neural network is the one that gave the best performance for the fake news dataset. I have been using neural networks for a while now. However, one thing that I've always wonderd about is the selection of an optimizer for training the network (using backprop).
 
